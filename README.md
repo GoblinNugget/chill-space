@@ -1,3 +1,5 @@
+# In Development
+
 # Chill space
 
 ## Description
@@ -14,12 +16,64 @@ The list of thing i wanted to include is as follows:
 * Contacts page with a form to fill in to get in contact with us about tips/meetups. 
 
 ## Images of wireframes
-![image of balsamiq wireframe](assets/images/balsamiq-project.png)
-![image of balsamiq wireframe](assets/images/index-html-section-2.png)
-![image of balsamiq wireframe](assets/images/tutorials-section-1.png)
-![image of balsamiq wireframe](assets/images/tutorials-section-2.png)
+![image of balsamiq wireframe](assets/images/readme-images/index-section-1.png)
 
+<hr>
 
+![image of balsamiq wireframe](assets/images/readme-images/index-section-2.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/tutorials-section-1.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/tutorials-section-2.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/contact-section-1.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/contact-section-2.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/index-section-1-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/index-section-2-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/tutorials-section-1-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/tutorials-section-2-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/tutorials-section-3-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/contact-section-1-mb.png)
+
+<hr>
+
+![image of balsamiq wireframe](assets/images/readme-images/contact-section-2-mb.png)
+
+<hr>
+
+## Roadmap
+
+Once completed i have no plans to update the site in the future as it is being made for a project.
+
+## Acknowledgments
+Thankyou to Code Institute for providing the github template for this project. https://github.com/Code-Institute-Org/gitpod-full-template
 
 
 
